@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jokes Application</string>
+    <string name="Joke1">What do you call a pig that dose karate?</string>
+    <string name="Joke2">What dose corn say when you give it a compliment?</string>
+    <string name="Joke3">Did you hear about the mathematician who\'s afraid of negative numbers?</string>
+    <string name="Joke4">How many time can you subtract 10 from 100?</string>
+    <string name="Joke5">Did you hear about the claustrophobic astronaut?</string>
+    <string name="Joke6">What do you call a parade of rabbits hopping backwards?</string>
+</resources>
